@@ -1,0 +1,13 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: #37B6CE;
+    padding: 5px;
+    border-radius:15px
+}
+footer{
+    background-color: #37B6CE;
+    padding: 5px;
+    border-radius:15px
+}
